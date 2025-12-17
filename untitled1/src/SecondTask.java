@@ -7,9 +7,7 @@ public class SecondTask {
         int n = scanner.nextInt();
         int[] arr = new int[n];
         System.out.println("Введите " + n + " чисел:");
-        for (i = 0; i < n; i++) {
-            arr[i] = scanner.nextInt();
-        }
+
     }
 
 }
