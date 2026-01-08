@@ -1,5 +1,5 @@
 public class FifthTask {
-    static void main(String[] args) {
+   public static void main(String[] args) {
         final int Length = 25; //
         final int Quantity = 10;
         final int General_Quantity = 1 + Quantity + 1;
